@@ -39,5 +39,5 @@ Egresado de Analista Programador en INACAP Valparaíso. Enfocado en el desarroll
 ### 📫 Contacto
 
 * **LinkedIn:** [linkedin.com/in/yerko-bustamante](https://linkedin.com/in/yerko-bustamante)
-* **Correo:** yerkomark@gmail.com
+* **Correo:** yerko.bustamante.dev@gmail.com
 * **Ubicación:** Valparaíso, Chile
